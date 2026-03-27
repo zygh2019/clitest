@@ -5,4 +5,4 @@ def fibonacci(n):
         a, b = b, a + b
 
 fibonacci(10)
-print("Hello World")
+print("你好世界啊")
